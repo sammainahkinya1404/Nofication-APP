@@ -1,0 +1,21 @@
+.col{
+    display: grid;
+  column-gap: 30px;
+padding-left: 300px;
+
+}
+.col3{
+    display: grid;
+    column-gap: 100px;
+    margin-left: 150px;
+   padding-left: 200px;
+    color: rgb(104, 104, 201);
+
+
+}
+.col2{
+    display: grid;
+    column-gap: 30px;
+    margin-left: 110px;
+    padding-left: 100px;
+}
